@@ -35,7 +35,7 @@ import { deleteLocalFiles, filterImageFromURL } from "./util/util";
 
     const image_url: string = req.query.image_url;
 
-    if (image_url === "") {
+    if (!image_url) {
       res.status(400).send(MSG.VALIDATION.IMAGE_URL_REQUIRED);
     }
 
