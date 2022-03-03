@@ -1,8 +1,8 @@
-# udagram-image-filter
+# udacity-c2-project-image-filtering
 Project of Udacity course
 
 # project git: 
-https://github.com/letruongan1982/udagram-image-filter.git
+https://github.com/letruongan1982/udacity-c2-project-image-filtering.git
 
 # elastic beanstalk instance URL
 https://console.aws.amazon.com/elasticbeanstalk/home?region=us-east-1#/environment/dashboard?applicationName=udacity-c2-project-image-filtering&environmentId=e-shrp2hninv
